@@ -2,9 +2,9 @@ import { Box, Link, Text } from '@chakra-ui/react';
 import { ExternalLinkIcon } from '@chakra-ui/icons';
 
 const links = {
-  github: 'https://github.com/ethereum-boilerplate/ethereum-boilerplate/',
-  forum: 'https://forum.moralis.io/',
-  moralis: 'https://moralis.io/?utm_source=boilerplatehosted&utm_medium=todo&utm_campaign=ethereum-boilerplate',
+  github: 'https://github.com/einstein-core/einpunk-boilerplate-.git/',
+  forum: 'https://t.me/einpunkUSD',
+  einpunk: 'https://einpunk-boilerplate-kuqf.vercel.app/',
 };
 
 const Footer = () => {
@@ -20,13 +20,13 @@ const Footer = () => {
       <Text>
         🙋 You have questions? Ask them on the{' '}
         <Link href={links.forum} isExternal alignItems={'center'}>
-          Moralis forum <ExternalLinkIcon />
+          Einpunk forum <ExternalLinkIcon />
         </Link>
       </Text>
       <Text>
-        📖 Read more about{' '}
-        <Link href={links.moralis} isExternal alignItems={'center'}>
-          Moralis <ExternalLinkIcon />
+        📖 Join protocol community{' '}
+        <Link href={links.einpunk} isExternal alignItems={'center'}>
+          Einpunk <ExternalLinkIcon />
         </Link>
       </Text>
     </Box>

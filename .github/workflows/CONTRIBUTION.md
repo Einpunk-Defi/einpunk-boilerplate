@@ -4,11 +4,11 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - This boilerplate is built with [Moralis](https://moralis.io?utm_source=github&utm_medium=readme&utm_campaign=ethereum-boilerplate)?
+🙋‍♀️ A short introduction - This boilerplate is built with [Moralis](https://vercel.com/einstein-core/einpunk-boilerplate-kuqf/9XwAR2exK1YdztxZAvvXQpyi5xNT)?
 👀 Contribution guidelines - Go to [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x89a081999249407c1153e135a2af7d323419a66a)Buy Einpunk Minimum Of 50Einpunk Follow [Einpunk](https:twitter.com/einpunkprotocol) on Titter, then you communicate via our Community [Telegram](https://t.me/+PY48IVqpvfxiZjBh)
-👩‍💻 Useful resources - fork @https://github.com/einstein-punk/einpunk-boilerplate.git. this project and clone the fork on your local machine: 
+👩‍💻 Useful resources - fork @https://github.com/einstein-core/einpunk-boilerplate-.git. this project and clone the fork on your local machine:
 ```sh
-git clone https://github.com/einstein-punk/einpunk-boilerplate.git
+git clone https://github.com/einstein-core/einpunk-boilerplate-.git
 cd einpunk-boilerplate # go into the clone directory
 npm install # install all the node dependencies
 ```
@@ -24,14 +24,14 @@ We use GitHub issues to track public bugs. We will keep a close eye on this and 
 
 ### Coding Style
 
-Please follow the [Coding Style](https://github.com/ethereum-boilerplate/ethereum-boilerplate/blob/main/CODING_STYLE.md).
+Please follow the [Coding Style](https://github.com/einstein-core/einpunk-boilerplate-.git/blob/main/CODING_STYLE.md).
 
 ## License
 MIT
 
 By contributing to the ethereum-boilerplate, you agree that your contributions will be licensed under its license.
 🍪 Main Protocol - Einpunk Protocol
-🧙 ### Privacy 
+🧙 ### Privacy
 
 Privacy Policy
 Updated at 2022-04-01
