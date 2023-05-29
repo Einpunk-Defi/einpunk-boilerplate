@@ -6,7 +6,7 @@
 
 🙋‍♀️ A short introduction - This boilerplate is built with [Moralis](https://moralis.io?utm_source=github&utm_medium=readme&utm_campaign=ethereum-boilerplate)?
 👀 Contribution guidelines - Go to [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x89a081999249407c1153e135a2af7d323419a66a)Buy Einpunk Minimum Of 50Einpunk Follow [Einpunk](https:twitter.com/einpunkprotocol) on Titter, then you communicate via our Community [Telegram](https://t.me/+PY48IVqpvfxiZjBh)
-👩‍💻 Useful resources - fork @https://github.com/einstein-punk/einpunk-boilerplate.git. this project and clone the fork on your local machine: 
+👩‍💻 Useful resources - fork @https://github.com/einstein-punk/einpunk-boilerplate.git. this project and clone the fork on your local machine:
 ```sh
 git clone https://github.com/einstein-punk/einpunk-boilerplate.git
 cd einpunk-boilerplate # go into the clone directory
@@ -31,7 +31,7 @@ MIT
 
 By contributing to the ethereum-boilerplate, you agree that your contributions will be licensed under its license.
 🍪 Main Protocol - Einpunk Protocol
-🧙 ### Privacy 
+🧙 ### Privacy
 
 Privacy Policy
 Updated at 2022-04-01

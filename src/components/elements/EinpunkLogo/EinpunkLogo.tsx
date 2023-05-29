@@ -1,17 +1,17 @@
 import { useColorMode } from '@chakra-ui/react';
 import Image from 'next/image';
 
-const MoralisLogo = () => {
+const EinpunkLogo = () => {
   const { colorMode } = useColorMode();
 
   return (
     <Image
-      src={colorMode === 'dark' ? '/Moralis-DarkBG.svg' : '/Moralis-LightBG.svg'}
+      src={colorMode === 'dark' ? '/Einpunk-DarkBG.svg' : '/Einpunk-LightBG.svg'}
       height={45}
       width={150}
-      alt="Moralis"
+      alt="Einpunk"
     />
   );
 };
 
-export default MoralisLogo;
+export default EinpunkLogo;
